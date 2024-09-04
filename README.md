@@ -78,23 +78,22 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
+    &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=white">
+   </a>
+    &emsp;
+  <a href="" target="_blank"> 
+      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?style=plastic&logo=Bootstrap&logoColor=white">
+   </a>
+  &emsp;
+  <a href="" target="_blank"> 
+      <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20-%23F7DF1E.svg?style=plastic&logo=Tailwind&logoColor=blue">
+   </a>
   &emsp;
   <a href="https://www.Angular.org" target="_blank">
     <img alt="Angular" src="https://img.shields.io/badge/angular-%23E34F26.svg?style=plastic&logo=Angular&logoColor=white">
   </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=white">
-   </a>
-   &emsp;
-  <a href="" target="_blank"> 
-     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?style=plastic&logo=Bootstrap&logoColor=white">
-   </a>
-  &emsp;
-  <a href="" target="_blank"> 
-     <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20-%23F7DF1E.svg?style=plastic&logo=Tailwind&logoColor=blue">
-   </a>
-  &emsp;
 </p>
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
 <p align="center">
@@ -102,8 +101,6 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
   &emsp;
