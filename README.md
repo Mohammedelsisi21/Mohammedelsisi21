@@ -79,8 +79,8 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/python-%2361DAFB.svg?style=plastic&logo=Python&logoColor=black">
+  <a href="https://www.Angular.org" target="_blank">
+    <img alt="Angular" src="https://img.shields.io/badge/angular-%2361DAFB.svg?style=plastic&logo=Angular&logoColor=black">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
