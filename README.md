@@ -37,6 +37,9 @@
 	<a href="https://github.com/Mohammedelsisi21"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/0201011707304"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/mohammed-elsisi-25267027b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  
+<a href="https://img.shields.io/github/followers/mohammed-elsisi-25267027b?label=Follow&style=social"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="GitHub followers"/></a>
+
 </p>
 
 
@@ -172,7 +175,8 @@
 
 ----
 	
-[![mohammedelsisi21's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohammedelsisi21&theme=github	)](https://github.com/mohammedelsisi21/github-readme-activity-graph)
+[![mohammedelsisi21's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammedelsisi21&theme=github)](https://github.com/mohammedelsisi21/github-readme-activity-graph)
+
 
  
 </details>
@@ -184,5 +188,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedelsisi21&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="mohammedelsisi21" /></a> </p>
 
 [![@mohammedelsisi21's Holopin board](https://holopin.io/api/user/board?user=mohammedelsisi21)](https://holopin.io/@mohammedelsisi21)
+
 	
 </details>
