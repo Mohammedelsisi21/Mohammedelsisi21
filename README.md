@@ -49,7 +49,8 @@
 
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="86" height="86" />
 
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg"
+     alt="icon" width="86" height="86" style="filter: brightness(0) invert(1);" />
 
   <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="icon" width="65" height="65" />
 
