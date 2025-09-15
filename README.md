@@ -26,6 +26,7 @@
 
 # 🤹‍♀️ Skills
 
+<<<<<<< HEAD
 <div style="display: flex; align-items: flex-start;">
 
   <img src="https://skillicons.dev/icons?i=html&theme=light" alt="icon" width="86" height="86" />
@@ -58,3 +59,20 @@
 
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="86" height="86" />
 </div>
+=======
+[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://www.html.com/)
+[![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://www.css.com/)
+[![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=ts&theme=light)](https://www.typescriptlang.org/)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=light)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=tailwind&theme=light)](https://tailwindcss.com/)
+[![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://cplusplus.com/)
+[![My Skills](https://skillicons.dev/icons?i=php&theme=light)](https://www.php.net/)
+[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/)
+[![My Skills](https://skillicons.dev/icons?i=windows&theme=dark)](https://www.linux.org/)
+[![My Skills](https://skillicons.dev/icons?i=linux&theme=dark)](https://www.microsoft.com/en-eg)
+
+
+>>>>>>> a619c92fa8818c5f84b540cef52416c0dbdcd2b9
