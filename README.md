@@ -51,11 +51,6 @@
 
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" style="filter: brightness(0) invert(1) !important;" />
 
-  <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="icon" width="45" height="45" />
-
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="icon" width="45" height="45" />
-
-  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
 
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
 </div>
