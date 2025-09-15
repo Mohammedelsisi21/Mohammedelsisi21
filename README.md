@@ -29,13 +29,13 @@
 <<<<<<< HEAD
 <div style="display: flex; align-items: flex-start;">
 
-  <img src="https://skillicons.dev/icons?i=html&theme=light" alt="icon" width="86" height="86" />
+  <img src="https://skillicons.dev/icons?i=html&theme=light" alt="icon" width="65" height="65" />
 
-  <img src="https://skillicons.dev/icons?i=css&theme=light" alt="icon" width="86" height="86" />
+  <img src="https://skillicons.dev/icons?i=css&theme=light" alt="icon" width="65" height="65" />
 
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" alt="icon" width="86" height="86" />
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" alt="icon" width="65" height="65" />
 
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="icon" width="86" height="86" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="icon" width="65" height="65" />
 
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" />
 
@@ -51,9 +51,9 @@
 
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" />
 
-  <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="icon" width="86" height="86" />
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="icon" width="65" height="65" />
 
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="icon" width="86" height="86" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="icon" width="65" height="65" />
 
   <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="86" height="86" />
 
