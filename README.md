@@ -26,7 +26,7 @@
 
 # 🤹‍♀️ Skills
 
-<<<<<<< HEAD
+
 <div style="display: flex; align-items: flex-start;">
 
   <img src="https://skillicons.dev/icons?i=html&theme=light" alt="icon" width="65" height="65" />
