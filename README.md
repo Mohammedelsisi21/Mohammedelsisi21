@@ -1,61 +1,76 @@
 ![logo](./assets/logo.jpg)
+
 <h1 align="center">Hi 👋, I'm Mohamed Elsisi</h1>
-<h3 align="center">👩‍💻 A passionate software engineer from Egypt</h3>
+<h3 align="center">💻 Software Engineer | Frontend Developer | Problem Solver</h3>
 
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=mohammedelsisi21&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedelsisi21" />
+<p align="center">
+  🚀 Passionate about building modern web applications and solving problems
 </p>
 
-- 💬 Ask me about **competitive programming**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammedelsisi21&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
 
-- 📫 How to reach me **its.mohammedelsisi21@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/mohamed.elsesi.75/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+## 👨‍💻 About Me
+- 🎓 Computer Science Student (Final Year)
+- 💡 Interested in **Frontend Development & UI/UX**
+- 🧠 Strong in **Problem Solving & Competitive Programming**
+- ⚡ Always learning new technologies
+
+---
+
+## 📬 Contact Me
+- 📧 Email: **its.mohammedelsisi21@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://www.facebook.com/mohamed.elsesi.75/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
 </a>
 <a href="https://wa.me/201011707304" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" height="40"/>
 </a>
 <a href="https://www.linkedin.com/in/mohammed-abdelrafea-elsisi-25267027b/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
 </p>
 
-# 🤹‍♀️ Skills
+---
 
+## 🛠️ Tech Stack
 
-<div style="display: flex; align-items: flex-start;">
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,sass" />
+</p>
 
-  <img src="https://skillicons.dev/icons?i=html&theme=light" alt="icon" width="65" height="65" />
+### ⚙️ Programming & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,git,github,linux,windows" />
+</p>
 
-  <img src="https://skillicons.dev/icons?i=css&theme=light" alt="icon" width="65" height="65" />
+### 🔧 Others
+<p>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60"/>
+  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="60"/>
+</p>
 
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" alt="icon" width="65" height="65" />
+---
 
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="icon" width="65" height="65" />
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedelsisi21&show_icons=true&theme=tokyonight" />
+</p>
 
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedelsisi21&theme=tokyonight" />
+</p>
 
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" />
+---
 
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" />
-
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86" />
-
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" />
-
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="86" height="86" />
-
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" style="filter: brightness(0) invert(1) !important;" />
-
-  <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="icon" width="65" height="65" />
-
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="icon" width="65" height="65" />
-
-  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="86" height="86" />
-
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="86" height="86" />
-</div>
+## ✨ Fun Fact
+> I turn ☕ coffee into clean code and creative UI 😎
