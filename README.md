@@ -31,9 +31,11 @@
 <a href="https://www.facebook.com/mohamed.elsesi.75/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
 </a>
+
 <a href="https://wa.me/201011707304" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="40"/>
 </a>
+
 <a href="https://www.linkedin.com/in/mohammed-abdelrafea-elsisi-25267027b/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
